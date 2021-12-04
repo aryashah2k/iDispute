@@ -9,7 +9,6 @@ base58==2.1.1
 bleach==4.1.0
 blinker==1.4
 blis==0.4.1
-ca-certificates==2021.10.26
 cachetools==4.2.4
 catalogue==2.0.6
 certifi==2021.10.8
