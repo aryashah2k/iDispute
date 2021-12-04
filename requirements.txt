@@ -2,7 +2,7 @@ altair==4.1.0
 argcomplete==1.12.3
 argon2-cffi==21.1.0
 astor==0.8.1
-attrs====21.2.0
+attrs==21.2.0
 backcall==0.2.0
 backports-zoneinfo==0.2.1
 base58==2.1.1
