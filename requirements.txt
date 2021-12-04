@@ -89,7 +89,6 @@ smmap==5.0.0
 spacy==2.2.0
 spacy-legacy==3.0.8
 spacy-loggers==1.0.1
-sqlite==3.36.0
 srsly==1.0.5
 streamlit==1.2.0
 terminado==0.12.1
