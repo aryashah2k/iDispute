@@ -106,7 +106,6 @@ tzdata==2021.5
 tzlocal==4.1
 urllib3==1.26.7
 validators==0.18.2
-vs2015_runtime==14.27.29016
 wasabi==0.8.2
 watchdog==2.1.6
 wcwidth==0.2.5
