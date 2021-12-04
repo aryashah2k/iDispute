@@ -60,4 +60,4 @@ if st.button("Run"):
     generate_output(text)
 
 
-#st.markdown("<br><br><hr><center>Made with ❤️ by <a href='https://prateekralhan.github.io/'><strong>Prateek Ralhan</strong></a></center><hr>", unsafe_allow_html=True)
+st.markdown("<br><br><hr><center>Made with ❤️ for SAS | GIM, Bitathon by <a href='https://github.com/aryashah2k'><strong>Arya Shah</strong></a></center><hr>", unsafe_allow_html=True)
